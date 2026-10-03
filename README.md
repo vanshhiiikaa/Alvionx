@@ -185,4 +185,4 @@ If you find this repository useful or helpful for learning SQL, consider giving 
 
 This project is created for learning, practice, and educational purposes.
 
-:::
+::::
